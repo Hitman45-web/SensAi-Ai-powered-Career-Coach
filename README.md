@@ -41,8 +41,11 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 
 GEMINI_API_KEY=
 
-🚀 Getting Started
+```
 
+##🚀 Getting Started
+
+```
 git clone https://github.com/your-username/sensai.git
 cd sensai
 npm install
@@ -50,7 +53,8 @@ npx prisma db push
 npm run dev
 Visit: http://localhost:3000
 
-✅ Roadmap
+```
+##✅ Roadmap
  Resume & Cover Letter Generator
 
  Clerk Authentication
