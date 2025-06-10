@@ -42,8 +42,8 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 GEMINI_API_KEY=
 
 ```
-
-##🚀 Getting Started
+---
+## 🚀 Getting Started
 
 ```
 git clone https://github.com/your-username/sensai.git
@@ -51,10 +51,14 @@ cd sensai
 npm install
 npx prisma db push
 npm run dev
-Visit: http://localhost:3000
-
 ```
-##✅ Roadmap
+---
+
+# Visit: http://localhost:3000
+
+---
+
+## ✅ Roadmap
  Resume & Cover Letter Generator
 
  Clerk Authentication
@@ -66,8 +70,9 @@ Visit: http://localhost:3000
  Voice Mock Interview Assistant
 
  Job Tracker
+ 
+---
+# 👤 Author
+# Yash Dighade
+## 🔗 www.linkedin.com/in/yash-dighade
 
-👤 Author
-Yash Dighade
-🔗 LinkedIn
-💻 GitHub
